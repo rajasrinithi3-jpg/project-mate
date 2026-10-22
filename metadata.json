@@ -1,0 +1,6 @@
+{
+  "name": "ProjectMate",
+  "description": "Find the right teammates. Build better projects. College project collaboration platform with skill-based teammate discovery and matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

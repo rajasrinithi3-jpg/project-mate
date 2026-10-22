@@ -1,0 +1,755 @@
+{
+  "users": [
+    {
+      "id": "usr_lokitha",
+      "name": "Lokitha A",
+      "email": "lokitha@projectmate.edu",
+      "passwordHash": "03f26f34dff3f5bbb41d018ea9858525721acdfaad76551e20357b5170846be2cd3f1ae2d24a57d5f56c91198721d100c148e2f82b42e9f4be4211a1111abef4",
+      "salt": "a1b2c3d4e5f67890",
+      "department": "IT",
+      "year": "2nd Year",
+      "bio": "2nd Year IT student passionate about building practical AI systems and sleek web interfaces. Looking for collaborative minds for semester projects.",
+      "skills": [
+        "C++",
+        "Python",
+        "React",
+        "UI/UX",
+        "Java"
+      ],
+      "interests": [
+        "Artificial Intelligence",
+        "Web Development",
+        "App Development"
+      ],
+      "availability": [
+        "Weekday evenings",
+        "Weekends"
+      ],
+      "preferredProjectTypes": [
+        "AI / ML",
+        "Web Development"
+      ],
+      "photoURL": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "github": "https://github.com/lokitha-dev",
+      "linkedin": "https://linkedin.com/in/lokitha",
+      "createdAt": "2026-09-08T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "usr_riya",
+      "name": "Riya Sharma",
+      "email": "riya@projectmate.edu",
+      "passwordHash": "03f26f34dff3f5bbb41d018ea9858525721acdfaad76551e20357b5170846be2cd3f1ae2d24a57d5f56c91198721d100c148e2f82b42e9f4be4211a1111abef4",
+      "salt": "a1b2c3d4e5f67890",
+      "department": "CSE",
+      "year": "2nd Year",
+      "bio": "Machine learning enthusiast with experience in Python data pipelines and React frontends. Love Kaggle competitions and hackathons.",
+      "skills": [
+        "Python",
+        "React",
+        "Machine Learning",
+        "FastAPI",
+        "Data Structures"
+      ],
+      "interests": [
+        "AI / ML",
+        "Data Science",
+        "Web Development"
+      ],
+      "availability": [
+        "Weekday evenings",
+        "Weekends"
+      ],
+      "preferredProjectTypes": [
+        "AI / ML",
+        "Data Science"
+      ],
+      "photoURL": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80",
+      "github": "https://github.com/riya-sharma",
+      "linkedin": "https://linkedin.com/in/riyasharma",
+      "createdAt": "2026-09-13T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "usr_arjun",
+      "name": "Arjun Mehta",
+      "email": "arjun@projectmate.edu",
+      "passwordHash": "03f26f34dff3f5bbb41d018ea9858525721acdfaad76551e20357b5170846be2cd3f1ae2d24a57d5f56c91198721d100c148e2f82b42e9f4be4211a1111abef4",
+      "salt": "a1b2c3d4e5f67890",
+      "department": "CSE",
+      "year": "3rd Year",
+      "bio": "Full-stack developer focused on Node.js backends, React SPAs, and database architecture. Built 3 campus utility tools.",
+      "skills": [
+        "Node.js",
+        "React",
+        "SQL",
+        "TypeScript",
+        "Docker",
+        "UI/UX"
+      ],
+      "interests": [
+        "Web Development",
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "availability": [
+        "Weekends",
+        "Flexible"
+      ],
+      "preferredProjectTypes": [
+        "Web Development",
+        "Cloud"
+      ],
+      "photoURL": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+      "github": "https://github.com/arjunmehta",
+      "linkedin": "https://linkedin.com/in/arjunmehta",
+      "createdAt": "2026-08-29T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "usr_sneha",
+      "name": "Sneha R",
+      "email": "sneha@projectmate.edu",
+      "passwordHash": "03f26f34dff3f5bbb41d018ea9858525721acdfaad76551e20357b5170846be2cd3f1ae2d24a57d5f56c91198721d100c148e2f82b42e9f4be4211a1111abef4",
+      "salt": "a1b2c3d4e5f67890",
+      "department": "AI",
+      "year": "2nd Year",
+      "bio": "Specializing in deep learning, neural networks, and computer vision. Experienced with PyTorch, OpenCV, and medical datasets.",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "PyTorch",
+        "Pandas"
+      ],
+      "interests": [
+        "AI / ML",
+        "Data Science",
+        "Healthcare Tech"
+      ],
+      "availability": [
+        "Weekday evenings"
+      ],
+      "preferredProjectTypes": [
+        "AI / ML",
+        "Data Science"
+      ],
+      "photoURL": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+      "github": "https://github.com/sneha-ai",
+      "linkedin": "https://linkedin.com/in/snehar",
+      "createdAt": "2026-09-18T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "usr_vikram",
+      "name": "Vikram K",
+      "email": "vikram@projectmate.edu",
+      "passwordHash": "03f26f34dff3f5bbb41d018ea9858525721acdfaad76551e20357b5170846be2cd3f1ae2d24a57d5f56c91198721d100c148e2f82b42e9f4be4211a1111abef4",
+      "salt": "a1b2c3d4e5f67890",
+      "department": "IT",
+      "year": "3rd Year",
+      "bio": "Product designer & frontend engineer. Passionate about user research, micro-interactions, Figma component systems, and Tailwind.",
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "React",
+        "CSS",
+        "Tailwind CSS",
+        "JavaScript"
+      ],
+      "interests": [
+        "UI/UX",
+        "Web Development",
+        "Design Systems"
+      ],
+      "availability": [
+        "Weekends",
+        "Weekday evenings"
+      ],
+      "preferredProjectTypes": [
+        "UI/UX",
+        "Web Development",
+        "Mobile Development"
+      ],
+      "photoURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+      "github": "https://github.com/vikramk-design",
+      "linkedin": "https://linkedin.com/in/vikramk",
+      "createdAt": "2026-09-23T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "usr_ananya",
+      "name": "Ananya S",
+      "email": "ananya@projectmate.edu",
+      "passwordHash": "03f26f34dff3f5bbb41d018ea9858525721acdfaad76551e20357b5170846be2cd3f1ae2d24a57d5f56c91198721d100c148e2f82b42e9f4be4211a1111abef4",
+      "salt": "a1b2c3d4e5f67890",
+      "department": "ECE",
+      "year": "3rd Year",
+      "bio": "Hardware-meets-software explorer. Experience bridging microcontrollers (ESP32/Arduino) with MQTT cloud brokers and real-time dashboards.",
+      "skills": [
+        "C++",
+        "IoT",
+        "Embedded Systems",
+        "Python",
+        "Robotics"
+      ],
+      "interests": [
+        "IoT",
+        "Robotics",
+        "Embedded Systems"
+      ],
+      "availability": [
+        "Weekday evenings",
+        "Weekends"
+      ],
+      "preferredProjectTypes": [
+        "IoT",
+        "Other"
+      ],
+      "photoURL": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+      "github": "https://github.com/ananya-iot",
+      "linkedin": "https://linkedin.com/in/ananyas",
+      "createdAt": "2026-09-28T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "usr_karthik",
+      "name": "Karthik N",
+      "email": "karthik@projectmate.edu",
+      "passwordHash": "03f26f34dff3f5bbb41d018ea9858525721acdfaad76551e20357b5170846be2cd3f1ae2d24a57d5f56c91198721d100c148e2f82b42e9f4be4211a1111abef4",
+      "salt": "a1b2c3d4e5f67890",
+      "department": "DS",
+      "year": "2nd Year",
+      "bio": "Data science student focused on exploratory data analysis, business intelligence dashboards, SQL, and predictive modeling.",
+      "skills": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "Statistics",
+        "R",
+        "Data Analysis"
+      ],
+      "interests": [
+        "Data Science",
+        "AI / ML",
+        "Analytics"
+      ],
+      "availability": [
+        "Weekday mornings",
+        "Weekends"
+      ],
+      "preferredProjectTypes": [
+        "Data Science",
+        "AI / ML"
+      ],
+      "photoURL": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=200&auto=format&fit=crop&q=80",
+      "github": "https://github.com/karthik-ds",
+      "linkedin": "https://linkedin.com/in/karthikn",
+      "createdAt": "2026-10-03T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "usr_cbd01fd8564d",
+      "name": "Priya Patel",
+      "email": "test_student_1791433316154@projectmate.edu",
+      "passwordHash": "8f0d7ce1f5c9c9ba32fdf65a6e8d783238c1330f2d69cef2dce1d0cca504b2aa4b392cab7dc20f12e12d33450b4398033c295459ae54f71cb12cbb8bb215e10a",
+      "salt": "165843c5fdb2efeb37f6134625da5ffc",
+      "department": "CSE",
+      "year": "2nd Year",
+      "bio": "Enthusiastic robotics and vision engineer looking for smart teammates.",
+      "skills": [
+        "Python",
+        "ROS",
+        "OpenCV",
+        "C++",
+        "Computer Vision"
+      ],
+      "interests": [
+        "Robotics",
+        "Artificial Intelligence",
+        "IoT"
+      ],
+      "availability": [
+        "Weekday evenings",
+        "Weekends"
+      ],
+      "preferredProjectTypes": [],
+      "createdAt": "2026-10-08T04:21:56.316Z",
+      "updatedAt": "2026-10-08T04:21:56.389Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_6383ba8d69b4",
+      "name": "Autonomous Quadcopter Vision",
+      "description": "Developing stereo-depth obstacle avoidance using onboard micro-controllers and neural depth models.",
+      "category": "IoT",
+      "requiredSkills": [
+        "C++",
+        "Python",
+        "Computer Vision",
+        "Embedded Systems"
+      ],
+      "teamSize": 3,
+      "deadline": "2026-12-15",
+      "status": "Recruiting",
+      "creatorId": "usr_cbd01fd8564d",
+      "creatorName": "Priya Patel",
+      "creatorDepartment": "CSE",
+      "currentTeamSize": 2,
+      "createdAt": "2026-10-08T04:21:56.396Z",
+      "updatedAt": "2026-10-08T04:21:56.396Z"
+    },
+    {
+      "id": "proj_disease_pred",
+      "name": "AI-Based Disease Prediction System",
+      "description": "A clinical decision support platform using deep learning models to predict early-stage cardiac and diabetic risks from multimodal patient reports, paired with an interactive physician dashboard.",
+      "category": "AI / ML",
+      "requiredSkills": [
+        "Python",
+        "React",
+        "Machine Learning",
+        "UI/UX"
+      ],
+      "teamSize": 4,
+      "deadline": "2026-11-20",
+      "status": "Recruiting",
+      "creatorId": "usr_lokitha",
+      "creatorName": "Lokitha A",
+      "creatorDepartment": "IT",
+      "currentTeamSize": 2,
+      "createdAt": "2026-09-24T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "proj_iot_energy",
+      "name": "Smart Campus IoT Energy Monitor",
+      "description": "Distributed sensor nodes deployed in campus labs to monitor per-socket power usage, detect phantom loads, and visualize real-time energy conservation stats.",
+      "category": "IoT",
+      "requiredSkills": [
+        "C++",
+        "IoT",
+        "Python",
+        "React"
+      ],
+      "teamSize": 4,
+      "deadline": "2026-12-05",
+      "status": "Recruiting",
+      "creatorId": "usr_ananya",
+      "creatorName": "Ananya S",
+      "creatorDepartment": "ECE",
+      "currentTeamSize": 1,
+      "createdAt": "2026-09-30T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "proj_peerprep",
+      "name": "PeerPrep - Collaborative Study & Notes Hub",
+      "description": "A real-time note-sharing and peer tutoring platform tailored for semester course syllabus, question banks, and collaborative markdown summaries.",
+      "category": "Web Development",
+      "requiredSkills": [
+        "React",
+        "Node.js",
+        "SQL",
+        "UI/UX"
+      ],
+      "teamSize": 3,
+      "deadline": "2026-11-15",
+      "status": "Active",
+      "creatorId": "usr_arjun",
+      "creatorName": "Arjun Mehta",
+      "creatorDepartment": "CSE",
+      "currentTeamSize": 2,
+      "createdAt": "2026-09-26T04:21:16.006Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    }
+  ],
+  "teams": [
+    {
+      "id": "team_disease_pred",
+      "projectId": "proj_disease_pred",
+      "projectName": "AI-Based Disease Prediction System",
+      "teamLeadId": "usr_lokitha",
+      "members": [
+        {
+          "userId": "usr_lokitha",
+          "name": "Lokitha A",
+          "email": "lokitha@projectmate.edu",
+          "department": "IT",
+          "year": "2nd Year",
+          "photoURL": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+          "role": "Team Lead",
+          "joinedAt": "2026-09-24T04:21:16.006Z"
+        },
+        {
+          "userId": "usr_sneha",
+          "name": "Sneha R",
+          "email": "sneha@projectmate.edu",
+          "department": "AI",
+          "year": "2nd Year",
+          "photoURL": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+          "role": "Researcher",
+          "joinedAt": "2026-09-28T04:21:16.006Z"
+        }
+      ],
+      "createdAt": "2026-09-24T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "team_iot_energy",
+      "projectId": "proj_iot_energy",
+      "projectName": "Smart Campus IoT Energy Monitor",
+      "teamLeadId": "usr_ananya",
+      "members": [
+        {
+          "userId": "usr_ananya",
+          "name": "Ananya S",
+          "email": "ananya@projectmate.edu",
+          "department": "ECE",
+          "year": "3rd Year",
+          "photoURL": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+          "role": "Team Lead",
+          "joinedAt": "2026-09-30T04:21:16.007Z"
+        }
+      ],
+      "createdAt": "2026-09-30T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "team_peerprep",
+      "projectId": "proj_peerprep",
+      "projectName": "PeerPrep - Collaborative Study & Notes Hub",
+      "teamLeadId": "usr_arjun",
+      "members": [
+        {
+          "userId": "usr_arjun",
+          "name": "Arjun Mehta",
+          "email": "arjun@projectmate.edu",
+          "department": "CSE",
+          "year": "3rd Year",
+          "photoURL": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+          "role": "Team Lead",
+          "joinedAt": "2026-09-26T04:21:16.007Z"
+        },
+        {
+          "userId": "usr_vikram",
+          "name": "Vikram K",
+          "email": "vikram@projectmate.edu",
+          "department": "IT",
+          "year": "3rd Year",
+          "photoURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+          "role": "Designer",
+          "joinedAt": "2026-09-29T04:21:16.007Z"
+        }
+      ],
+      "createdAt": "2026-09-26T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "team_c802ad03f947",
+      "projectId": "proj_6383ba8d69b4",
+      "projectName": "Autonomous Quadcopter Vision",
+      "teamLeadId": "usr_cbd01fd8564d",
+      "members": [
+        {
+          "userId": "usr_cbd01fd8564d",
+          "name": "Priya Patel",
+          "email": "test_student_1791433316154@projectmate.edu",
+          "department": "CSE",
+          "year": "2nd Year",
+          "role": "Team Lead",
+          "joinedAt": "2026-10-08T04:21:56.396Z"
+        },
+        {
+          "userId": "usr_ananya",
+          "name": "Ananya S",
+          "email": "ananya@projectmate.edu",
+          "department": "ECE",
+          "year": "3rd Year",
+          "photoURL": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+          "role": "Researcher",
+          "joinedAt": "2026-10-08T04:21:56.436Z"
+        }
+      ],
+      "createdAt": "2026-10-08T04:21:56.396Z",
+      "updatedAt": "2026-10-08T04:21:56.436Z"
+    }
+  ],
+  "invitations": [
+    {
+      "id": "inv_8e4accb82429",
+      "projectId": "proj_6383ba8d69b4",
+      "projectName": "Autonomous Quadcopter Vision",
+      "projectDescription": "Developing stereo-depth obstacle avoidance using onboard micro-controllers and neural depth models.",
+      "requiredSkills": [
+        "C++",
+        "Python",
+        "Computer Vision",
+        "Embedded Systems"
+      ],
+      "senderId": "usr_cbd01fd8564d",
+      "senderName": "Priya Patel",
+      "receiverId": "usr_ananya",
+      "receiverName": "Ananya S",
+      "roleOffered": "Researcher",
+      "message": "Hi! Your embedded systems & IoT skills are ideal for our quadcopter hardware.",
+      "status": "Accepted",
+      "createdAt": "2026-10-08T04:21:56.413Z",
+      "updatedAt": "2026-10-08T04:21:56.436Z"
+    },
+    {
+      "id": "inv_1",
+      "projectId": "proj_disease_pred",
+      "projectName": "AI-Based Disease Prediction System",
+      "projectDescription": "A clinical decision support platform using deep learning models to predict early-stage cardiac and diabetic risks.",
+      "requiredSkills": [
+        "Python",
+        "React",
+        "Machine Learning",
+        "UI/UX"
+      ],
+      "senderId": "usr_lokitha",
+      "senderName": "Lokitha A",
+      "receiverId": "usr_riya",
+      "receiverName": "Riya Sharma",
+      "roleOffered": "Developer",
+      "message": "Hi Riya! I saw your strong Python and Machine Learning background. Your skills match our project requirements perfectly. Would love to have you on the team!",
+      "status": "Pending",
+      "createdAt": "2026-10-06T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "inv_2",
+      "projectId": "proj_peerprep",
+      "projectName": "PeerPrep - Collaborative Study & Notes Hub",
+      "projectDescription": "A real-time note-sharing and peer tutoring platform tailored for semester course syllabus.",
+      "requiredSkills": [
+        "React",
+        "Node.js",
+        "SQL",
+        "UI/UX"
+      ],
+      "senderId": "usr_arjun",
+      "senderName": "Arjun Mehta",
+      "receiverId": "usr_lokitha",
+      "receiverName": "Lokitha A",
+      "roleOffered": "Developer",
+      "message": "Hey Lokitha, we could really use your React and UI/UX skills to help craft our notes reader interface!",
+      "status": "Pending",
+      "createdAt": "2026-10-07T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "tsk_32c49aa68569",
+      "teamId": "team_c802ad03f947",
+      "projectId": "proj_6383ba8d69b4",
+      "title": "Configure optical flow sensor on I2C bus",
+      "description": "Wire PMW3901 sensor to ESP32 board and test 50Hz frame rate capture.",
+      "assignedTo": "usr_ananya",
+      "assignedToName": "Ananya S",
+      "priority": "High",
+      "status": "In Progress",
+      "dueDate": "2026-11-10",
+      "createdBy": "usr_ananya",
+      "createdAt": "2026-10-08T04:21:56.448Z",
+      "updatedAt": "2026-10-08T04:21:56.455Z"
+    },
+    {
+      "id": "tsk_1",
+      "teamId": "team_disease_pred",
+      "projectId": "proj_disease_pred",
+      "title": "Research existing clinical dataset benchmarks",
+      "description": "Review Kaggle cardiology and diabetes tabular datasets, verify licenses and check feature variance.",
+      "assignedTo": "usr_sneha",
+      "assignedToName": "Sneha R",
+      "priority": "High",
+      "status": "Completed",
+      "dueDate": "2026-10-25",
+      "createdBy": "usr_lokitha",
+      "createdAt": "2026-09-28T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "tsk_2",
+      "teamId": "team_disease_pred",
+      "projectId": "proj_disease_pred",
+      "title": "Data collection & feature preprocessing",
+      "description": "Clean missing values, normalize numerical features, and establish train-test splits.",
+      "assignedTo": "usr_sneha",
+      "assignedToName": "Sneha R",
+      "priority": "Medium",
+      "status": "In Progress",
+      "dueDate": "2026-11-02",
+      "createdBy": "usr_lokitha",
+      "createdAt": "2026-10-01T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "tsk_3",
+      "teamId": "team_disease_pred",
+      "projectId": "proj_disease_pred",
+      "title": "Model training and hyperparameter tuning",
+      "description": "Train XGBoost, Random Forest, and MLP baseline classifiers. Compare ROC-AUC and F1 scores.",
+      "assignedTo": "",
+      "priority": "High",
+      "status": "Pending",
+      "dueDate": "2026-11-10",
+      "createdBy": "usr_lokitha",
+      "createdAt": "2026-10-03T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "tsk_4",
+      "teamId": "team_disease_pred",
+      "projectId": "proj_disease_pred",
+      "title": "UI design wireframes in Figma",
+      "description": "Design student-friendly and clinician-friendly report summary cards with risk meters.",
+      "assignedTo": "usr_lokitha",
+      "assignedToName": "Lokitha A",
+      "priority": "Medium",
+      "status": "In Progress",
+      "dueDate": "2026-11-05",
+      "createdBy": "usr_lokitha",
+      "createdAt": "2026-10-04T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "tsk_5",
+      "teamId": "team_disease_pred",
+      "projectId": "proj_disease_pred",
+      "title": "Integration and Testing",
+      "description": "Connect React frontend with FastAPI inference endpoint and run end-to-end integration tests.",
+      "assignedTo": "",
+      "priority": "High",
+      "status": "Pending",
+      "dueDate": "2026-11-18",
+      "createdBy": "usr_lokitha",
+      "createdAt": "2026-10-06T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    },
+    {
+      "id": "tsk_6",
+      "teamId": "team_peerprep",
+      "projectId": "proj_peerprep",
+      "title": "Design component library in Tailwind",
+      "description": "Build buttons, chips, and cards for subject syllabus viewer.",
+      "assignedTo": "usr_vikram",
+      "assignedToName": "Vikram K",
+      "priority": "Medium",
+      "status": "In Progress",
+      "dueDate": "2026-10-30",
+      "createdBy": "usr_arjun",
+      "createdAt": "2026-10-02T04:21:16.007Z",
+      "updatedAt": "2026-10-08T04:21:16.005Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1",
+      "teamId": "team_disease_pred",
+      "senderId": "usr_lokitha",
+      "senderName": "Lokitha A",
+      "senderPhoto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "content": "Welcome Sneha! Excited to kick off the AI disease prediction project.",
+      "createdAt": "2026-09-29T04:21:16.007Z"
+    },
+    {
+      "id": "msg_2",
+      "teamId": "team_disease_pred",
+      "senderId": "usr_sneha",
+      "senderName": "Sneha R",
+      "senderPhoto": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+      "content": "Thanks Lokitha! I have gathered 2 medical tabular datasets with over 3,000 anonymized patient records.",
+      "createdAt": "2026-09-30T04:21:16.007Z"
+    },
+    {
+      "id": "msg_3",
+      "teamId": "team_disease_pred",
+      "senderId": "usr_lokitha",
+      "senderName": "Lokitha A",
+      "senderPhoto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "content": "Awesome! I also sent an invite to Riya Sharma for the model & API development role. Fingers crossed she joins!",
+      "createdAt": "2026-10-06T04:21:16.007Z"
+    },
+    {
+      "id": "msg_1c8d36b961b5",
+      "teamId": "team_c802ad03f947",
+      "senderId": "system",
+      "senderName": "ProjectMate Bot",
+      "content": "🎉 Ananya S has joined the team as a Researcher!",
+      "createdAt": "2026-10-08T04:21:56.436Z"
+    },
+    {
+      "id": "msg_d57ea3d6355d",
+      "teamId": "team_c802ad03f947",
+      "senderId": "usr_ananya",
+      "senderName": "Ananya S",
+      "senderPhoto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+      "content": "Hey Priya, I accepted the invitation! I will start wiring the optical flow sensor tomorrow.",
+      "createdAt": "2026-10-08T04:21:56.459Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_04303b8ff8f2",
+      "userId": "usr_cbd01fd8564d",
+      "type": "invitation_accepted",
+      "title": "Invitation Accepted! 🤝",
+      "message": "Ananya S accepted your invitation to join \"Autonomous Quadcopter Vision\".",
+      "relatedId": "team_c802ad03f947",
+      "read": false,
+      "createdAt": "2026-10-08T04:21:56.436Z"
+    },
+    {
+      "id": "notif_7dc1b2f749b0",
+      "userId": "usr_ananya",
+      "type": "invitation_received",
+      "title": "New Team Invitation",
+      "message": "Priya Patel invited you to join \"Autonomous Quadcopter Vision\" as a Researcher.",
+      "relatedId": "inv_8e4accb82429",
+      "read": false,
+      "createdAt": "2026-10-08T04:21:56.413Z"
+    },
+    {
+      "id": "notif_f27724920f77",
+      "userId": "usr_cbd01fd8564d",
+      "type": "general",
+      "title": "Welcome to ProjectMate! 🎉",
+      "message": "Set up your technical skills and interests to find the best teammates for your semester projects.",
+      "read": false,
+      "createdAt": "2026-10-08T04:21:56.316Z"
+    },
+    {
+      "id": "notif_1",
+      "userId": "usr_riya",
+      "type": "invitation_received",
+      "title": "New Project Invitation",
+      "message": "Lokitha A invited you to join \"AI-Based Disease Prediction System\" as a Developer.",
+      "relatedId": "inv_1",
+      "read": false,
+      "createdAt": "2026-10-06T04:21:16.007Z"
+    },
+    {
+      "id": "notif_2",
+      "userId": "usr_lokitha",
+      "type": "invitation_received",
+      "title": "New Project Invitation",
+      "message": "Arjun Mehta invited you to join \"PeerPrep - Collaborative Study & Notes Hub\" as a Developer.",
+      "relatedId": "inv_2",
+      "read": false,
+      "createdAt": "2026-10-07T04:21:16.007Z"
+    },
+    {
+      "id": "notif_3",
+      "userId": "usr_sneha",
+      "type": "task_assigned",
+      "title": "Task Assigned",
+      "message": "Lokitha A assigned you to \"Data collection & feature preprocessing\".",
+      "relatedId": "tsk_2",
+      "read": true,
+      "createdAt": "2026-10-01T04:21:16.007Z"
+    }
+  ]
+}
